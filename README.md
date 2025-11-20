@@ -5,11 +5,11 @@
 
 ### 🚀 About Me
 - 🔗 Passionate **Blockchain & Smart Contract Developer**  
-- 🧠 7+ years of experience as **Senior Analyst – Insurance Domain**  
 - 💼 Actively seeking **Blockchain Developer roles** & **Freelancing Gigs**  
 - 🛠️ Skilled in **Solidity, EVM, Foundry, Hardhat, Web3.js, Ethers.js**  
 - 🌱 Currently mastering **Advanced Smart Contract Patterns & Gas Optimization**  
-- 🎯 Goals: Build secure, scalable, production-ready Web3 applications  
+- 🎯 Goals: Build secure, scalable, production-ready Web3 applications
+- 🧠 7+ years of experience as **Senior Analyst – Insurance Domain**  
 - 📫 **Hire me:** your-email@example.com  
 
 ---
