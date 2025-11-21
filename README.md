@@ -10,7 +10,7 @@
 - 🌱 Currently mastering **Advanced Smart Contract Patterns & Gas Optimization**  
 - 🎯 Goals: Build secure, scalable, production-ready Web3 applications
 - 🧠 7+ years of experience as **Senior Analyst – Insurance Domain**  
-- 📫 **Hire me:** your-email@example.com  
+- 📫 **Hire me:** your-dharmbusiness7@gmail.com  
 
 ---
 
