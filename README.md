@@ -29,9 +29,10 @@ I am a blockchain developer and smart contract security researcher focused on So
 - Vulnerability writeups in a professional report format
 
 ### Projects
-- Escrow smart contract
-- Lending protocol mini-project
-- Staking system
+- PasswordStore Audit
+- Puppy Raffle Audit
+- TSwap Audit
+- Lending Defi 
 - Security-focused Solidity examples
 
 ## Current Focus
