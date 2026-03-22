@@ -44,5 +44,5 @@ I am a blockchain developer and smart contract security researcher focused on So
 ## Contact
 - GitHub: https://github.com/Dharmesh070294
 - X/Twitter: https://x.com/dharmeshpr0702
-- LinkedIn: [your-linkedin-link](#)
 - Email: dharmbusiness7@gmail.com
+- LinkedIn: [your-linkedin-link](#)
