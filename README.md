@@ -65,3 +65,8 @@ Professional audit-style reports with impact, likelihood, and mitigation.
 - X/Twitter: https://x.com/dharmeshpr0702
 - Email: dharmbusiness7@gmail.com
 - Discord: https://discord.com/channels/@me
+
+  
+ <img width="90" height="90" alt="Portfolio" src="https://github.com/user-attachments/assets/d7b4d5f4-f549-4453-b4c6-d414234fdebc" />
+
+
